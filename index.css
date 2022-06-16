@@ -1,0 +1,49 @@
+:root {
+	--dark: #292C35;
+	--light: #F1F1F1;
+	--label: #111;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;   
+    background-color: var(--dark);
+    font-size: 62.5%;
+    overflow: overlay;
+}
+.content{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center; 
+}
+.btn-toggle{
+    display: flex;
+    height: 5rem;
+    width: 12rem;
+    font-size: 5rem;
+    background-color: #3150da;
+    padding:2rem 1.2rem;
+    border-radius: 3rem;
+    justify-content: space-between;
+    align-items: center; 
+   
+}
+.active{
+background-color: #F1F1F1;
+padding-inline:0.5rem ;
+border-radius: 50%;
+transition: 0.2s;
+}
+.active img{
+    visibility: hidden;
+}
+.claro{
+    background-color: var(--light);
+}
