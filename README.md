@@ -2,3 +2,9 @@
 # Theme-toggle
 
  Essa é a resolução de um desafio proposto no curso Discovery da Rocketseat, o desafio era cria um botão que mudasse o tama da página. Para resolver esse desafio fiz de duas maneiras, uma com condicional e outra usando o metodo toggle. 
+ 
+ 
+ ## Entre em contato comigo.
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maikon-alexandre)
+![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
